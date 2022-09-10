@@ -46,7 +46,7 @@ Enquanto o arquivo `package.json` lista as dependências que nos informam as ver
 {% tab title="package.json" %}
 
 
-``![](../../.gitbook/assets/image.png)``
+``![](<../../.gitbook/assets/image (1).png>)``
 
 
 {% endtab %}
@@ -164,7 +164,7 @@ Agora para iniciar o servidor, digite: `npm start`
 
 O arquivo .gitIgnore usamos para ele ignorar alguns arquivos/pastas que não queremos subir ao fazer o commit. Por exemplo a pasta node\_modules.
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 
 #### Estrutura de pastas
 
