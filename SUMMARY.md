@@ -27,7 +27,7 @@
   * [Passo a passo](encontros/encontro-4/passo-a-passo.md)
   * [Tarefa: Criar evento](encontros/encontro-4/tarefa-criar-evento.md)
   * [Dicas para resolver a tarefa](encontros/encontro-4/dicas-para-resolver-a-tarefa.md)
-* [Encontro:5](encontros/encontro-5/README.md)
+* [🌞 Encontro:5](encontros/encontro-5/README.md)
   * [Passo a passo](encontros/encontro-5/passo-a-passo.md)
   * [Tarefa: Listar eventos](encontros/encontro-5/tarefa-listar-eventos.md)
   * [Dicas para resolver a tarefa](encontros/encontro-5/dicas-para-resolver-a-tarefa.md)
