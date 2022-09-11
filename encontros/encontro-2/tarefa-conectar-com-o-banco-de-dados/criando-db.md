@@ -47,7 +47,7 @@ Depois de verificar a sua conta, termine de configurar e escolha a opção "free
 
 08-> Depois em **"Connect your application"**
 
-![](<../../../.gitbook/assets/image (7).png>)
+![](<../../../.gitbook/assets/image (7) (1).png>)
 
 09-> O **Driver** precisa ser Node.js e a **Version** precisa ser 4.1 or later.\
 Copie o que tá no passo **"2 Add your connection string into your application code."** e clique em **"close"**

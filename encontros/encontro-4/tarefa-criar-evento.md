@@ -29,9 +29,9 @@ eventos[{
 }]
 ```
 
-![](<../../.gitbook/assets/image (4).png>)
 
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Referências
 

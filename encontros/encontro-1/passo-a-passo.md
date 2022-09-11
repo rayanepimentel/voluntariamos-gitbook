@@ -46,7 +46,7 @@ Enquanto o arquivo `package.json` lista as dependências que nos informam as ver
 {% tab title="package.json" %}
 
 
-``![](<../../.gitbook/assets/image (1).png>)``
+``![](<../../.gitbook/assets/image (1) (2).png>)``
 
 
 {% endtab %}
