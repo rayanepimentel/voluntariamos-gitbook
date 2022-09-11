@@ -6,6 +6,7 @@
 
 * [💡 Projeto](sobre-elasunidas-voluntariamos/projeto.md)
 * [🚩 Como irá funcionar](sobre-elasunidas-voluntariamos/como-ira-funcionar.md)
+* [🔮 Atividades](sobre-elasunidas-voluntariamos/atividades.md)
 
 ## Encontros
 
