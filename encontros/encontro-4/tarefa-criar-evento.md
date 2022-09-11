@@ -6,7 +6,7 @@ No diagrama será a parte `"criar evento"`
 
 Vai ser necessário atualizar o arquivo de rotas, o arquivo da controller e da models.
 
-\-> Na **rotas**, será necessário criar uma nova rota(put/patch).
+\-> Na **rotas**, será necessário criar uma nova rota.
 
 \-> Na **controller** é necessário pesquisar pelo id do usuario/conta, para saber se o usuario existe e se existir, incluir o evento.
 
@@ -14,16 +14,19 @@ Vai ser necessário atualizar o arquivo de rotas, o arquivo da controller e da m
 
 ```
 // models
-eventos {
- nome do evento
- tipo
- local
- dataEvento
- turno/horas
- dataInscricao
- linkInscricao
- tags
-} 
+eventos[{
+ nomeEvento
+  tipo
+  local: {
+    cidade
+    estado
+  }
+  data
+  turnoHoras
+  recorrente
+  linkInscricao
+  label
+}]
 ```
 
 ![](<../../.gitbook/assets/image (4).png>)

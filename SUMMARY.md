@@ -26,3 +26,4 @@
 * [⛈ Encontro:4](encontros/encontro-4/README.md)
   * [Passo a passo](encontros/encontro-4/passo-a-passo.md)
   * [Tarefa: Criar evento](encontros/encontro-4/tarefa-criar-evento.md)
+  * [Dicas para resolver a tarefa](encontros/encontro-4/dicas-para-resolver-a-tarefa.md)
