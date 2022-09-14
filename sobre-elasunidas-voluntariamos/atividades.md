@@ -6,6 +6,7 @@
 * Listar eventos
 * Editar evento
 * Deletar usuario e evento
+* Testes
 * Autenticação e criptografia
 * Deploy da aplicação
 
