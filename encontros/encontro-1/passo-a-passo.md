@@ -78,7 +78,7 @@ E uma const PORT, onde passaremos a porta
 
 Se você digitar **app.** aparecerá algumas opções, selecione a opção **listen**
 
-![](<../../.gitbook/assets/image (23).png>)
+![](<../../.gitbook/assets/image (23) (1).png>)
 
 O **app.listen()** escuta as requisições vindas da porta, passando o callback que sempre será executado ao receber uma requisição.
 

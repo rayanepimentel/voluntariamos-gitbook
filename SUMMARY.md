@@ -32,3 +32,7 @@
   * [Passo a passo](encontros/encontro-5/passo-a-passo.md)
   * [Tarefa: Listar eventos](encontros/encontro-5/tarefa-listar-eventos.md)
   * [Dicas para resolver a tarefa](encontros/encontro-5/dicas-para-resolver-a-tarefa.md)
+* [🌑 Encontro:6](encontros/encontro-6/README.md)
+  * [Passo a passo](encontros/encontro-6/passo-a-passo.md)
+  * [Tarefa: Editar evento](encontros/encontro-6/tarefa-editar-evento.md)
+  * [Dicas para resolver a tarefa](encontros/encontro-6/dicas-para-resolver-a-tarefa.md)
