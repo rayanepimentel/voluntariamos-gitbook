@@ -1,6 +1,6 @@
 # Tarefa: Editar evento
 
-No diagrama será a parte `"listar eventos"`
+No diagrama será a parte `"editar evento"`
 
 Vai ser necessário atualizar o arquivo de rotas e o arquivo da controller.
 
