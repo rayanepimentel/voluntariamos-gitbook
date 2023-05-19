@@ -19,7 +19,7 @@ Esse guia ainda não tá completo. Irei implementando conforme o conteúdo visto
 
 ### Sobre ElasUnidas
 
-`ElasUnidas` foi criada por mim em 2018, quando eu estava aprendendo sobre HTML, CSS e JS.
+`ElasUnidas` é um grupo de estudo criado por mim em 2018, quando eu estava aprendendo sobre HTML, CSS e JS
 
 \-> Em **2018** os encontros aconteciam no Tendal da Lapa em São Paulo - SP, eramos todas iniciantes e tinhamos uma monitora voluntária (obrigada, Virginia💟).&#x20;
 
